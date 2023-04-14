@@ -3,7 +3,7 @@ This repository creates a playable chess game in RViz using ROS. It labels each 
 
 After cloning the repository, put it in your Catkin workspace. To run the program you will need three terminal windows:
 1) Run "roscore"
-2) Run "rosrun my_markers chess_game.py
+2) Run "rosrun my_markers chess_game.py"
 3) Run "rviz"
 
 In the RViz window, perform these four actions:
