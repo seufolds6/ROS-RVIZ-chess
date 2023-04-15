@@ -12,4 +12,6 @@ In the RViz window, perform these four actions:
 3) Click "add" in the lower left corner and select "InteractiveMarkers"
 4) Under "InteractiveMarkers," change "Update Topic" to "/basic_controls/update"
 
-You should now see the pieces appear in the chess board, which is ready to be played.
+You should now see the pieces appear in the chess board, which is ready to be played. See the video below for an example of the beginning of a chess game using this simulation environment.
+
+https://user-images.githubusercontent.com/71709732/232178960-5499c94d-5b01-4a6c-8492-d5e3ef137e3c.mov
